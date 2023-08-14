@@ -1,7 +1,7 @@
 trigger:
   branches:
     include:
-      - main  # Change this to the name of your main branch, e.g., master
+      - master  # Change this to the name of your main branch, e.g., master
 
 
 pool:
